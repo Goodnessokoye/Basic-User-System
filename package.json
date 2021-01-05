@@ -1,0 +1,22 @@
+{
+  "name": "basic-user-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goodnessokoye/Basic-User-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goodnessokoye/Basic-User-System/issues"
+  },
+  "homepage": "https://github.com/Goodnessokoye/Basic-User-System#readme",
+  "dependencies": {
+    "joi": "^17.3.0"
+  }
+}
