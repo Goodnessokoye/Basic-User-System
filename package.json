@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Goodnessokoye/Basic-User-System#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "joi": "^17.3.0"
+    "joi": "^17.3.0",
+    "mongoose": "^5.11.18"
   }
 }
